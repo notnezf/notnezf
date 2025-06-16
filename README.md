@@ -1,7 +1,7 @@
 <!-- Header -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=Nezf%20%7C%20Cybersecurity%20&fontSize=35&fontColor=ffffff&animation=twinkling" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=Nezf%20%7C%20Cybersecurity&fontSize=35&fontColor=ffffff&animation=twinkling" 
     width="100%"
   />
 </p>
@@ -11,50 +11,99 @@
 <h3 align="center">🔐 Pentester autodidacta | 💻 Pythonista | 🎯 Red Team Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nezf&label=Profile%20views&color=7f5af0&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Nezf00&label=Profile%20views&color=7f5af0&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
 <!-- About Me -->
-### 🧠 Sobre Mí
+<h2 align="center">🧠 Sobre Mí</h2>
 
-- 💼 Actualmente estudio de manera autodidacta mientras me desarrollo como pentester.
-- 💻 Experiencia en herramientas ofensivas y de análisis como: Kali Linux, Burp Suite, Metasploit, Hydra, Nmap y Wireshark.
-- 🐍 Dominio en programación con **Python3**, scripting en **Bash** y automatización en **PowerShell**.
-- 🔍 Me apasiona la ingeniería inversa, el malware development y el análisis forense.
-- 🚩 Conocimientos sólidos en **Red Teaming**, **seguridad web**, **OSINT** y **ethical hacking**.
+<p align="center">
+  💼 Actualmente estudio de manera autodidacta mientras me desarrollo como pentester.<br/>
+  💻 Experiencia en herramientas ofensivas y de análisis como: Kali Linux, Burp Suite, Metasploit, Hydra, Nmap y Wireshark.<br/>
+  🐍 Dominio en programación con <strong>Python3</strong>, scripting en <strong>Bash</strong> y automatización en <strong>PowerShell</strong>.<br/>
+  🔍 Me apasiona la ingeniería inversa, el malware development y el análisis forense.<br/>
+  🚩 Conocimientos sólidos en <strong>Red Teaming</strong>, <strong>seguridad web</strong>, <strong>OSINT</strong> y <strong>ethical hacking</strong>.
+</p>
 
 ---
 
-<!-- Tech Stack -->
-### ⚙️ Tecnologías y Herramientas
+<!-- Tech Stack Icons -->
+<h2 align="center">⚙️ Tecnologías y Herramientas</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,kali,nmap,wireshark,burpsuite,metasploit" /><br>
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,kali,nmap,wireshark,burpsuite,metasploit" /><br/>
   <img src="https://skillicons.dev/icons?i=vscode,github,git" />
 </div>
 
 ---
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/whoareigor_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zarek.ns@gmail.com) 
+<!-- Socials -->
+<h2 align="center">🌐 Contacto</h2>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nezf00&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nezf00&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nezf00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nezf00&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://x.com/whoareigor_"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="X" /></a>
+  <a href="mailto:zarek.ns@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nezf00&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://coff.ee/nezf) 
+<!-- Tech Badges -->
+<h2 align="center">💻 Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+---
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nezf00&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nezf00&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nezf00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
+<!-- Random Dev Quote -->
+<h2 align="center">✍️ Frase Aleatoria</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+<!-- Top Contributed -->
+<h2 align="center">🔝 Repositorios Más Activos</h2>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Nezf00&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<!-- Visit Counter -->
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Nezf00&icon=0&color=0" alt="Visit Count"/>
+  </a>
+</p>
+
+---
+
+<!-- Donate -->
+<h2 align="center">💰 Puedes apoyarme</h2>
+
+<p align="center">
+  <a href="https://coff.ee/nezf">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+  </a>
+</p>
