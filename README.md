@@ -1,8 +1,67 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Header -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=Nezf%20%7C%20Cybersecurity%20&fontSize=35&fontColor=ffffff&animation=twinkling" 
+    width="100%"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Introduction -->
+<h1 align="center">Hola 👋, soy Ferrán (aka Nezf)</h1>
+<h3 align="center">🔐 Pentester autodidacta | 💻 Pythonista | 🎯 Red Team Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nezf&label=Profile%20views&color=7f5af0&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+---
+
+<!-- About Me -->
+### 🧠 Sobre Mí
+
+- 💼 Actualmente estudio de manera autodidacta mientras me desarrollo como pentester.
+- 💻 Experiencia en herramientas ofensivas y de análisis como: Kali Linux, Burp Suite, Metasploit, Hydra, Nmap y Wireshark.
+- 🐍 Dominio en programación con **Python3**, scripting en **Bash** y automatización en **PowerShell**.
+- 🔍 Me apasiona la ingeniería inversa, el malware development y el análisis forense.
+- 🚩 Conocimientos sólidos en **Red Teaming**, **seguridad web**, **OSINT** y **ethical hacking**.
+
+---
+
+<!-- Tech Stack -->
+### ⚙️ Tecnologías y Herramientas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,kali,nmap,wireshark,burpsuite,metasploit" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,github,git" />
+</div>
+
+---
+
+<!-- Contact -->
+### 📫 Contacto
+
+<p>
+  <a href="mailto:zarek.ns@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-zarek.ns@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- GitHub Stats -->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nezf&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nezf&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"
+    width="100%"
+  />
+</p>
