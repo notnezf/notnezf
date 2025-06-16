@@ -38,7 +38,7 @@
 <div align="center" style="margin-bottom: 10px;">
   <img src="https://skillicons.dev/icons?i=wireshark,burpsuite,metasploit,vscode,github,git" />
 </div>
----
+
 
 <!-- Socials -->
 <h2 align="center">🌐 Contacto</h2>
