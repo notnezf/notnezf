@@ -32,11 +32,12 @@
 <!-- Tech Stack Icons -->
 <h2 align="center">⚙️ Tecnologías y Herramientas</h2>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,kali,nmap,wireshark,burpsuite,metasploit" /><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git" />
+<div align="center" style="margin-bottom: 10px;">
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,kali,nmap" />
 </div>
-
+<div align="center" style="margin-bottom: 10px;">
+  <img src="https://skillicons.dev/icons?i=wireshark,burpsuite,metasploit,vscode,github,git" />
+</div>
 ---
 
 <!-- Socials -->
