@@ -10,10 +10,6 @@
 <h1 align="center">Hola 👋, soy Ferrán (aka Nezf)</h1>
 <h3 align="center">🔐 Pentester autodidacta | 💻 Pythonista | 🎯 Red Team Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nezf00&label=Profile%20views&color=7f5af0&style=for-the-badge" alt="Profile Views"/>
-</p>
-
 ---
 
 <!-- About Me -->
@@ -58,26 +54,6 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
----
-
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nezf00&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nezf00&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nezf00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
----
-
-<!-- Top Contributed -->
-<h2 align="center">🔝 Repositorios Más Activos</h2>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Nezf00&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
