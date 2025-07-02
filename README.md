@@ -47,13 +47,20 @@
 
 ---
 
-<!-- Projects -->
-<h2 align="center">📂 Proyectos Actuales</h2>
+<!-- Gallery Links -->
+<h2 align="center">🧪 Mis Perfiles</h2>
 
-<ul>
-  <li>🧱 Desarrollo de un <strong>framework de pentesting modular</strong> enfocado en velocidad y claridad.</li>
-  <li>📜 Documentación de mis metodologías personales y automatizaciones para futuras publicaciones.</li>
-</ul>
+<p align="center">
+  <a href="https://app.hackthebox.com/profile/2234974" target="_blank">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
+  </a>
+  <a href="https://tryhackme.com/p/nolog" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
+  <a href="https://hackerone.com/notnezf" target="_blank">
+    <img src="https://img.shields.io/badge/HackerOne-FFFFFF?style=for-the-badge&logo=hackerone&logoColor=black" alt="HackerOne" />
+  </a>
+</p>
 
 ---
 
