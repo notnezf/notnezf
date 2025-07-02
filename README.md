@@ -70,8 +70,11 @@
 <h2 align="center">🌐 Contacto</h2>
 
 <p align="center">
-  <a href="https://x.com/whoareigor_"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="X" /></a>
+  <a href="https://x.com/nezfsec"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="X" /></a>
   <a href="mailto:zarek.ns@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+    <a href="https://www.youtube.com/@notnezf">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" />
+  </a>
 </p>
 
 ---
