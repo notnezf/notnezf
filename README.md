@@ -1,14 +1,14 @@
 <!-- Header -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=Nezf%20%7C%20Cybersecurity&fontSize=35&fontColor=ffffff&animation=twinkling" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=N0moro%20%7C%20Cybersecurity&fontSize=35&fontColor=ffffff&animation=twinkling" 
     width="100%"
   />
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hola 👋, soy Ferrán (aka Nezf)</h1>
-<h3 align="center">🔐 Offensive Security Practitioner | 💻 Toolmaker | 🎯 Red Team Enthusiast</h3>
+<h1 align="center">Hola 👋, soy Ferrán (aka Nomoro)</h1>
+<h3 align="center">🔐 Offensive Security Specialist | 💻 Toolmaker | 🎯 Red Team Enthusiast</h3>
 
 ---
 
@@ -19,7 +19,7 @@
   Me dedico a romper cosas, entender sistemas y construir herramientas más afiladas.<br/>
   🎯 Pentester autodidacta con enfoque en <strong>infraestructura, aplicaciones web y OSINT</strong>.<br/>
   ⚔️ Experiencia tanto en <strong>descubrimiento</strong> como en <strong>post-explotación</strong>.<br/>
-  🧪 Activo en <strong>Hack The Box</strong> y <strong>TryHackMe</strong>, pero mi laboratorio real es local... y ruidoso.<br/>
+  🧪 Activo en <strong>Hack The Box</strong> y <strong>TryHackMe</strong>.<br/>
   🧰 Desarrollador de herramientas ofensivas en <strong>Python</strong>, <strong>Bash</strong> y <strong>PowerShell</strong>.
 </p>
 
@@ -29,7 +29,7 @@
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,kali,nmap" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,kali,nmap,blackarch" /><br/>
   <img src="https://skillicons.dev/icons?i=wireshark,burpsuite,metasploit,vscode,github,git" />
 </div>
 
@@ -79,7 +79,7 @@
 <p align="center">
   <a href="https://x.com/nezfsec"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="X" /></a>
   <a href="mailto:zarek.ns@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
-    <a href="https://www.youtube.com/@notnezf">
+    <a href="https://www.youtube.com/@notnomoro">
     <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" />
   </a>
 </p>
